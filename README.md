@@ -17,11 +17,15 @@
 # Skill/Tool Areas for Projects:
 1. Basic github project workflow
 2. Setting up a linux/bsd computer for projects
-3. Git Repo Projects
+3. Git Repo Projects:
+- get familiar with making and using git repos
+- github
+- codeberg
 4. Production Code: From Notebook to Server
 5. Working with headless, terminal, cli
 6. Data science with Rust
-7. dealing with large files
+7. Dealing with large files
+- using terminal and slim-editors to inspect large files
 8. Text Editors & Large Files
 9. Looking over Arxiv News
 10. Tips for using an LLM for coding:
@@ -56,6 +60,8 @@
 - 
 9. Write a Server
 10. Spreadsheet vs. R&D "Dataframe" vs. Production-Dataframe
+- Make your own vanilla-dataframe in python (no pandas)
+- Design your own database
 
 
 # 'Project-Skills' Concepts:
