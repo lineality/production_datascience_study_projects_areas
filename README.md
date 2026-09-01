@@ -62,6 +62,9 @@
 10. Spreadsheet vs. R&D "Dataframe" vs. Production-Dataframe
 - Make your own vanilla-dataframe in python (no pandas)
 - Design your own database
+11. Make your own text, audio, or video 'chat' application
+12. Make your own vector database.
+13. Make a document (pre)processing pipeline for vectorizing
 
 
 # 'Project-Skills' Concepts:
@@ -120,3 +123,4 @@ https://www.amazon.com/Command-Line-Rust-Project-Based-Primer-Writing/dp/1098109
 
 # Also See:
 - https://github.com/lineality/production_datascience_design_areas 
+- https://github.com/lineality/macro_development_production_areas/ 
