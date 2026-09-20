@@ -36,6 +36,7 @@
 - https://github.com/ggml-org/llama.cpp 
 - Huggingface
 12. Testing & Evaluating
+13. Servers, Operating Systems & Devices
 
 
 # Project Ideas:
@@ -57,7 +58,7 @@
 7. Make a recursive State
 - https://medium.com/@GeoffreyGordonAshbrook/minimal-recursive-state-recursive-summary-searchable-ai-memory-e82985842c5d 
 8. Task-Automation: Assistance vs. Full Automation
-- 
+- Do both versions of a minimal project (Either deterministic or using deep learning (or both))
 9. Write a Server
 10. Spreadsheet vs. R&D "Dataframe" vs. Production-Dataframe
 - Make your own vanilla-dataframe in python (no pandas)
@@ -65,6 +66,10 @@
 11. Make your own text, audio, or video 'chat' application
 12. Make your own vector database.
 13. Make a document (pre)processing pipeline for vectorizing
+14. For Servers, Operating Systems & Devices:
+- Set up a Raspberry PI OS
+- Set up/install Alpine Linux on a device
+- Customize an AWS Lambda Function (serverless function)
 
 
 # 'Project-Skills' Concepts:
