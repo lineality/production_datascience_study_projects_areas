@@ -59,17 +59,20 @@
 - https://medium.com/@GeoffreyGordonAshbrook/minimal-recursive-state-recursive-summary-searchable-ai-memory-e82985842c5d 
 8. Task-Automation: Assistance vs. Full Automation
 - Do both versions of a minimal project (Either deterministic or using deep learning (or both))
-9. Write a Server
-10. Spreadsheet vs. R&D "Dataframe" vs. Production-Dataframe
+9. Character Encoding: Study and work with lower-level character encoding by creating and using a 4-bit (not four byte) ASCII-like character encoding. 
+- https://github.com/lineality/nibble_script_optimized_char_encoding 
+10. Write a Server
+11. Spreadsheet vs. R&D "Dataframe" vs. Production-Dataframe
 - Make your own vanilla-dataframe in python (no pandas)
 - Design your own database
-11. Make your own text, audio, or video 'chat' application
-12. Make your own vector database.
-13. Make a document (pre)processing pipeline for vectorizing
-14. For Servers, Operating Systems & Devices:
+12. Make your own text, audio, or video 'chat' application
+13. Make your own vector database.
+14. Make a document (pre)processing pipeline for vectorizing
+15. For Servers, Operating Systems & Devices:
 - Set up a Raspberry PI OS
 - Set up/install Alpine Linux on a device
 - Customize an AWS Lambda Function (serverless function)
+16. UDP: Build simple applications that send and receive UDP packets (including defining security-scope)
 
 
 # 'Project-Skills' Concepts:
