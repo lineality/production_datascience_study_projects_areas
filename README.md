@@ -74,10 +74,12 @@
 - Customize an AWS Lambda Function (serverless function)
 16. UDP: Build simple applications that send and receive UDP packets (including defining security-scope)
 
+# Key Design Areas
+1. "Hybrid" Structured and Unstructured Data: A significant 'riparian' area is the interface between goals, elements, state, and architectures to either side of or across the distinction between structured and unstructured data. There are many areas here from dynamic use of vector-embedding spaces to the differences between deterministic vs. sub-symbolic tools, methodologies, and production-deployment differences. (note: the definition of 'unstructured' can also be confusing or inconsistent). 
 
 # 'Project-Skills' Concepts:
-8. Agile & Project Areas
-9. Common Schedule Problems
+1. Agile & Project Areas
+2. Common Schedule Problems
 
 
 # Production Concepts:
